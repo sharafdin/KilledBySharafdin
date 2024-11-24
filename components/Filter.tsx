@@ -27,12 +27,8 @@ const Filter: React.FC<Props> = ({ items, filterHandler }) => {
       label: `Apps (${getCount('app')})`,
     },
     {
-      value: FilterType.SERVICE,
-      label: `Services (${getCount('service')})`,
-    },
-    {
-      value: FilterType.PACKAGE,
-      label: `Package (${getCount('package')})`,
+      value: FilterType.EXTENSION,
+      label: `Extension (${getCount('extension')})`,
     }
   ];
 

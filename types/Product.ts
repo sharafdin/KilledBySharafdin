@@ -1,7 +1,8 @@
 export enum ProductType {
-  APP = 'app',
-  SERVICE = 'service',
-  HARDWARE = 'hardware',
+  APP = "app",
+  SERVICE = "service",
+  HARDWARE = "hardware",
+  EXTENSION = "extension",
 }
 
 export interface Product {

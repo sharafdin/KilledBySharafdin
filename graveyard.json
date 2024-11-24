@@ -6,5 +6,13 @@
     "link": "/",
     "description": "Muraajaco was a mobile app designed to help Form four students with study reviews and exam preparation.",
     "type": "app"
+  },
+  {
+    "name": "Better React JS Code Snippet",
+    "dateOpen": "2023-07-13",
+    "dateClose": "2024-11-24",
+    "link": "/",
+    "description": "Better React JS Code Snippet was an extension that helped developers write ReactJS code 10x faster.",
+    "type": "extension"
   }
 ]

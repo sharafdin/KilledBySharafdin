@@ -3,4 +3,5 @@ export enum FilterType {
     APP = 'app',
     SERVICE = 'service',
     PACKAGE = 'package',
+    EXTENSION = 'extension'
 }
