@@ -14,5 +14,13 @@
     "link": "/",
     "description": "Better React JS Code Snippet was an extension that helped developers write ReactJS code 10x faster.",
     "type": "extension"
+  },
+  {
+    "name": "Yonode",
+    "dateOpen": "2024-01-28",
+    "dateClose": "2025-01-01",
+    "link": "/",
+    "description": "The Node.js Toolkit for Rapid Development.",
+    "type": "package"
   }
 ]

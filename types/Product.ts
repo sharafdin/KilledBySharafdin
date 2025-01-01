@@ -3,6 +3,7 @@ export enum ProductType {
   SERVICE = "service",
   HARDWARE = "hardware",
   EXTENSION = "extension",
+  PACKAGE = "package"
 }
 
 export interface Product {

@@ -29,6 +29,10 @@ const Filter: React.FC<Props> = ({ items, filterHandler }) => {
     {
       value: FilterType.EXTENSION,
       label: `Extension (${getCount('extension')})`,
+    },
+    {
+      value: FilterType.PACKAGE,
+      label: `PACKAGE (${getCount('extension')})`,
     }
   ];
 
